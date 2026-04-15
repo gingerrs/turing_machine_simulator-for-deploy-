@@ -1,0 +1,5 @@
+{
+  "name": "Turing Machine Simulator",
+  "description": "A visual simulator for a Turing Machine with customizable rules, tape, and speed control.",
+  "requestFramePermissions": []
+}
