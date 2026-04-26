@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/new_repo_for_deploy/',
+    base: '/turing_machine_simulator-for-deploy-/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
